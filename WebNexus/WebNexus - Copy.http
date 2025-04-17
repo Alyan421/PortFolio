@@ -1,0 +1,6 @@
+@WebNexus_HostAddress = http://localhost:5156
+
+GET {{WebNexus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
